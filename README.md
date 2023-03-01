@@ -5,7 +5,7 @@
 # Seja bem vindo ao meu GitHub
 
 
-#### Sou um desenvolvedor front-end com habilidades em HTML, CSS JavaScript, React e Python.
+#### Sou um desenvolvedor front-end com habilidades em HTML, CSS, JavaScript, React e Python.
 
 #### Meus projetos são entregues de forma rápida e objetiva, com atenção aos detalhes e a qualidade do código. Tenho dedicação por criar interfaces de usuário bonitas e intuitivas que proporcionam uma excelente experiência ao usuário. Além disso, estou sempre aprendendo novas tecnologias e aprimorando meus conhecimentos.
 
