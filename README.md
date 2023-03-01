@@ -20,6 +20,9 @@
 <HR>
 <br>
     
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126507353/222192747-478ee61a-752c-43c4-8129-ef61a3b4b702.jpg" width="400px" />
+</div>
     
 ## Confira minhas últimas atualizações acessando minhas redes!
 
