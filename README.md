@@ -14,7 +14,7 @@
     
 ###  💻 Estou a proucura de projetos e oportunidades que me permitam aplicar minhas habilidades.
 
-###  📚 Estou estudando React e Python pra aprimorar interfaces de usuário que proporcionam uma excelente experiência ao cliente ou empresa. 
+###  📚 Estou estudando e aperfeiçoando React e Python 
 
 ### 💡Criatividade pra pensar fora da caixa e encontrar soluções para problemas complexos, paciência de perseverar em fases de desafios mantendo o foco na solução e responsabilidade de assumir pelos próprios projetos e entregas, com resultados de alta qualidade dentro do prazo.
 <HR>
