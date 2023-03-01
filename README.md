@@ -11,7 +11,8 @@
 #### Meus projetos são entregues de forma rápida e objetiva, com atenção aos detalhes e a qualidade do código. Tenho dedicação por criar interfaces de usuário bonitas e intuitivas que proporcionam uma excelente experiência ao usuário. Além disso, estou sempre aprendendo novas tecnologias e aprimorando meus conhecimentos.
 
 <HR>
-<BR>
+
+    
 ###  💻 Estou a proucura de projetos e oportunidades que me permitam aplicar minhas habilidades.
 
 ###  📚 Estou estudando React e Python pra aprimorar interfaces de usuário que proporcionam uma excelente experiência ao cliente ou empresa. 
