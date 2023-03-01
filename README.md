@@ -12,7 +12,6 @@
 
 <HR>
 <BR>
-
 ###  💻 Estou a proucura de projetos e oportunidades que me permitam aplicar minhas habilidades.
 
 ###  📚 Estou estudando React e Python pra aprimorar interfaces de usuário que proporcionam uma excelente experiência ao cliente ou empresa. 
