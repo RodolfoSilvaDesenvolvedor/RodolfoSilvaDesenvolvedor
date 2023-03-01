@@ -1,6 +1,9 @@
 ### Olá! Eu me chamo Rodolfo Silva 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.-badge)
+<!-- Contador de visitantes -->
+<a href="" target="">
+<img src="https://hitwebcounter.com/counter/counter.php?page=8340843&style=0025&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter" border="0" /><a>       
+    
 <br/>
 
 # Seja bem vindo ao meu GitHub
