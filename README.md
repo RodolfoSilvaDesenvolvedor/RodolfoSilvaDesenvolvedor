@@ -1,10 +1,6 @@
 ### Olá! Eu me chamo Rodolfo Silva 👋
 
-<!-- Contador de visitantes -->
-<a href="" target="">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8340843&style=0025&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter" border="0" /><a>       
-    
-<br/>
+<br>
 
 # Seja bem vindo ao meu GitHub
 
@@ -23,7 +19,7 @@
 ### 💡Criatividade pra pensar fora da caixa e encontrar soluções para problemas complexos, paciência de perseverar em fases de desafios mantendo o foco na solução e responsabilidade de assumir pelos próprios projetos e entregas, com resultados de alta qualidade dentro do prazo.
 <HR>
 <br>
-
+    
 ## Confira minhas últimas atualizações acessando minhas redes!
 
 <br>
